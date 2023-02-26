@@ -1,4 +1,4 @@
-# Project: Weather_App (JS)
+# Project: Weather_App (JS-REACT)
 
 ## Description
 
@@ -27,4 +27,4 @@ User story;
 - If new searched city is in the weather data list, app can display a warning text to user on page.
 
 🔥 Used [OpenWeather Api](https://openweathermap.org/) for your app.
-
+[Repo](https://github.com/mdemirci571/weather_App)
