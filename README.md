@@ -27,4 +27,4 @@ At the end of the this project, will be able to;
 - If new searched city is in the weather data list, app can display a warning text to user on page.
 
 🔥 Used [OpenWeather Api](https://openweathermap.org/) for your app. <br>
-[Repo](https://github.com/mdemirci571/weather_App)
+[Repo: =>](https://github.com/mdemirci571/weather_App)
