@@ -1,4 +1,4 @@
-# Project-006 : Weather_Condition_App (JS-06)
+# Project: Weather_App (JS)
 
 ## Description
 
